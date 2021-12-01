@@ -16,6 +16,7 @@ Syntax highlighted code block
 ### Header 3
 
 
+
 - Bulleted
 - List
 
@@ -26,6 +27,8 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
+
+![lake](image/lake.jpeg)
 
 # ไทย
 ## ไทย
